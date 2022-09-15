@@ -2,7 +2,7 @@
 #
 # Created by: Evgeny Vovk
 # Created on: September 2022
-# ICS3U-Unit1-03.py File, learning how style properly
+# ICS3U-Unit1-03.py File, learning how style properly in python
 
 
 def main():
